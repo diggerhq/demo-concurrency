@@ -1,0 +1,1 @@
+resource "null_resource" "ecs_prod_cluster" {}

@@ -1,0 +1,11 @@
+projects:
+  - name: dev_ecs
+    dir: dev-ecs
+  - name: dev_database
+    dir: dev-database
+  - name: prod_ecs
+    dir: prod-ecs
+  - name: prod_database
+    dir: prod-database
+
+    

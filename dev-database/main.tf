@@ -1,0 +1,1 @@
+resource "null_resource" "ecs_dev_database" {}
