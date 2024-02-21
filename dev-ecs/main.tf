@@ -1,1 +1,1 @@
-resource "null_resource" "ecs_dev_cluster1" {}
+resource "null_resource" "ecs_dev_cluster" {}
