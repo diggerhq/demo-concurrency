@@ -7,5 +7,7 @@ projects:
     dir: prod-ecs
   - name: prod_database
     dir: prod-database
+  - name: new-project
+    dir: a-new-project
 
     
